@@ -16,7 +16,7 @@ sudo apt install fasm qemu-system-x86
 
 ### Install on Arch Linux
 
-```bash
+```
 sudo pacman -S fasm qemu-full
 ```
 
